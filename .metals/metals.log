@@ -1,0 +1,262 @@
+2025.11.08 23:42:41 INFO  Started: Metals version 1.6.3 in folders '/Users/racit/Documents/Assignments' for client Visual Studio Code 1.105.1.
+2025.11.08 23:42:41 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.08 23:42:41 INFO  no build target found for /Users/racit/Documents/Assignments/Day3/generics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Nov 08, 2025 11:42:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Nov 08, 2025 11:42:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2025.11.08 23:42:43 INFO  no build target found for /Users/racit/Documents/Assignments/Day3/generics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.08 23:42:43 INFO  no build target found for /Users/racit/Documents/Assignments/Day3/generics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.08 23:42:43 INFO  no build target found for /Users/racit/Documents/Assignments/Day3/generics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+Nov 08, 2025 11:42:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2025.11.08 23:42:43 INFO  no build target found for /Users/racit/Documents/Assignments/Day3/generics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.08 23:42:43 WARN  no build target for: /Users/racit/Documents/Assignments/Day3/generics.scala
+2025.11.08 23:42:43 WARN  no build target for: /Users/racit/Documents/Assignments/Day3/generics.scala
+2025.11.08 23:42:43 WARN  no build target for: /Users/racit/Documents/Assignments/Day3/generics.scala
+2025.11.08 23:42:45 INFO  Running List(/Users/racit/Library/Application Support/Coursier/bin/scala-cli, setup-ide, /Users/racit/Documents/Assignments)
+2025.11.08 23:42:45 INFO  Attempting to connect to the build server...
+2025.11.08 23:42:45 INFO  Running BSP server List(/Users/racit/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/racit/Documents/Assignments/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/racit/Documents/Assignments/.scala-build/ide-launcher-options.json, --envs-file, /Users/racit/Documents/Assignments/.scala-build/ide-envs.json, /Users/racit/Documents/Assignments)
+2025.11.08 23:42:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/racit/Documents/Assignments/.metals/bsp.trace.json or /Users/racit/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.11.08 23:42:46 INFO  no build target found for /Users/racit/Documents/Assignments/Day3/generics.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.08 23:42:45 INFO  time: Connected to build server in 0.94s
+2025.11.08 23:42:46 INFO  Connected to Build server: scala-cli v1.9.1
+2025.11.08 23:42:46 INFO  compiling assignments_d5c0a6989e (20 scala sources)
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-1/Day2/operator_overloading.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-1/Day3/keyword_and_varargs.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day1/variables.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day3/tail_recursion.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day3/lazy_evaluation.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day1/collections.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-1/Day3/collections_operations.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-1/Day2/method_overloading_default.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day1/datatypes.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-1/Day3/function_returning_function.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day3/collections_operations.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day3/function_returning_function.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day1/controlstructures.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-1/Day3/higher_order_functions.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day3/currying.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day2/operator_overloading.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-1/Day3/partial_applications.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day2/method_overloading_default.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day2/auxiliary_constructors.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day1/arrays.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-1/Day2/companion_apply_unapply.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day3/partial_applications.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-1/Day2/auxiliary_constructors.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day3/generics.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-1/Day3/generics.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day2/normal_vs_case_class.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-1/Day3/tail_recursion.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day2/companion_apply_unapply.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day3/higher_order_functions.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day3/keyword_and_varargs.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-2/Day1/functions.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-1/Day2/normal_vs_case_class.scala
+2025.11.08 23:42:48 WARN  Invalid text document uri received from build server: file:///Users/racit/Documents/Assignments/%E2%94%82-1/Day3/currying.scala
+2025.11.08 23:42:48 INFO  time: compiled Assignments_d5c0a6989e in 1.59s
+2025.11.08 23:42:48 INFO  compiling assignments_d5c0a6989e (20 scala sources)
+2025.11.08 23:42:48 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.08 23:42:48 INFO  time: compiled Assignments_d5c0a6989e in 0.76s
+2025.11.08 23:42:50 INFO  time: indexed workspace in 3.54s
+2025.11.08 23:42:50 INFO  compiling assignments_d5c0a6989e (20 scala sources)
+2025.11.08 23:42:50 INFO  time: compiled Assignments_d5c0a6989e in 0.37s
+2025.11.08 23:44:02 INFO  file:///Users/racit/Documents/Assignments/Day3/collections_operations.scala:7:1: stale bloop error: Illegal start of toplevel definition
+println(s"Immutable Variable: $immutableVariable")
+^^^^^^^
+2025.11.08 23:44:02 INFO  file:///Users/racit/Documents/Assignments/Day3/collections_operations.scala:11:1: stale bloop error: Illegal start of toplevel definition
+println(s"Mutable Variable (before change): $mutableVariable")
+^^^^^^^
+2025.11.08 23:44:02 INFO  file:///Users/racit/Documents/Assignments/Day3/collections_operations.scala:20:1: stale bloop error: Illegal start of toplevel definition
+println("Before accessing lazy variable")
+^^^^^^^
+2025.11.08 23:44:02 INFO  file:///Users/racit/Documents/Assignments/Day3/collections_operations.scala:6:1: stale bloop error: immutableVariable is already defined as value immutableVariable in /Users/racit/Documents/Assignments/Day1/arrays.scala
+val immutableVariable: Int = 10
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.11.08 23:44:02 INFO  file:///Users/racit/Documents/Assignments/Day3/collections_operations.scala:10:1: stale bloop error: mutableVariable is already defined as variable mutableVariable in /Users/racit/Documents/Assignments/Day1/arrays.scala
+var mutableVariable: String = "Hello"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.11.08 23:44:02 INFO  file:///Users/racit/Documents/Assignments/Day3/collections_operations.scala:16:1: stale bloop error: lazyVariable is already defined as lazy value lazyVariable in /Users/racit/Documents/Assignments/Day1/arrays.scala
+> lazy val lazyVariable: Double = {
+>   println("Lazy variable initialized")
+>   3.14
+> }
+2025.11.08 23:44:02 INFO  file:///Users/racit/Documents/Assignments/Day3/collections_operations.scala:7:1: stale bloop error: Illegal start of toplevel definition
+println(s"Immutable Variable: $immutableVariable")
+^^^^^^^
+2025.11.08 23:44:02 INFO  file:///Users/racit/Documents/Assignments/Day3/collections_operations.scala:11:1: stale bloop error: Illegal start of toplevel definition
+println(s"Mutable Variable (before change): $mutableVariable")
+^^^^^^^
+2025.11.08 23:44:02 INFO  file:///Users/racit/Documents/Assignments/Day3/collections_operations.scala:20:1: stale bloop error: Illegal start of toplevel definition
+println("Before accessing lazy variable")
+^^^^^^^
+2025.11.08 23:44:02 INFO  file:///Users/racit/Documents/Assignments/Day3/collections_operations.scala:6:1: stale bloop error: immutableVariable is already defined as value immutableVariable in /Users/racit/Documents/Assignments/Day1/arrays.scala
+val immutableVariable: Int = 10
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.11.08 23:44:02 INFO  file:///Users/racit/Documents/Assignments/Day3/collections_operations.scala:10:1: stale bloop error: mutableVariable is already defined as variable mutableVariable in /Users/racit/Documents/Assignments/Day1/arrays.scala
+var mutableVariable: String = "Hello"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.11.08 23:44:02 INFO  file:///Users/racit/Documents/Assignments/Day3/collections_operations.scala:16:1: stale bloop error: lazyVariable is already defined as lazy value lazyVariable in /Users/racit/Documents/Assignments/Day1/arrays.scala
+> lazy val lazyVariable: Double = {
+>   println("Lazy variable initialized")
+>   3.14
+> }
+2025.11.08 23:44:02 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day3/collections_operations.scala
+2025.11.08 23:45:02 INFO  compiling assignments_d5c0a6989e (20 scala sources)
+2025.11.08 23:45:02 INFO  time: compiled Assignments_d5c0a6989e in 0.23s
+2025.11.08 23:46:32 INFO  compiling assignments_d5c0a6989e (20 scala sources)
+2025.11.08 23:46:32 INFO  time: compiled Assignments_d5c0a6989e in 0.26s
+2025.11.08 23:47:22 INFO  compiling assignments_d5c0a6989e (20 scala sources)
+2025.11.08 23:47:22 INFO  time: compiled Assignments_d5c0a6989e in 0.22s
+2025.11.08 23:48:36 INFO  file:///Users/racit/Documents/Assignments/Day3/tail_recursion.scala:7:1: stale bloop error: Illegal start of toplevel definition
+println(s"Immutable Variable: $immutableVariable")
+^^^^^^^
+2025.11.08 23:48:36 INFO  file:///Users/racit/Documents/Assignments/Day3/tail_recursion.scala:11:1: stale bloop error: Illegal start of toplevel definition
+println(s"Mutable Variable (before change): $mutableVariable")
+^^^^^^^
+2025.11.08 23:48:36 INFO  file:///Users/racit/Documents/Assignments/Day3/tail_recursion.scala:20:1: stale bloop error: Illegal start of toplevel definition
+println("Before accessing lazy variable")
+^^^^^^^
+2025.11.08 23:48:36 INFO  file:///Users/racit/Documents/Assignments/Day3/tail_recursion.scala:6:1: stale bloop error: immutableVariable is already defined as value immutableVariable in /Users/racit/Documents/Assignments/Day1/arrays.scala
+val immutableVariable: Int = 10
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.11.08 23:48:36 INFO  file:///Users/racit/Documents/Assignments/Day3/tail_recursion.scala:10:1: stale bloop error: mutableVariable is already defined as variable mutableVariable in /Users/racit/Documents/Assignments/Day1/arrays.scala
+var mutableVariable: String = "Hello"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.11.08 23:48:36 INFO  file:///Users/racit/Documents/Assignments/Day3/tail_recursion.scala:16:1: stale bloop error: lazyVariable is already defined as lazy value lazyVariable in /Users/racit/Documents/Assignments/Day1/arrays.scala
+> lazy val lazyVariable: Double = {
+>   println("Lazy variable initialized")
+>   3.14
+> }
+2025.11.08 23:48:36 INFO  file:///Users/racit/Documents/Assignments/Day3/tail_recursion.scala:7:1: stale bloop error: Illegal start of toplevel definition
+println(s"Immutable Variable: $immutableVariable")
+^^^^^^^
+2025.11.08 23:48:36 INFO  file:///Users/racit/Documents/Assignments/Day3/tail_recursion.scala:11:1: stale bloop error: Illegal start of toplevel definition
+println(s"Mutable Variable (before change): $mutableVariable")
+^^^^^^^
+2025.11.08 23:48:36 INFO  file:///Users/racit/Documents/Assignments/Day3/tail_recursion.scala:20:1: stale bloop error: Illegal start of toplevel definition
+println("Before accessing lazy variable")
+^^^^^^^
+2025.11.08 23:48:36 INFO  file:///Users/racit/Documents/Assignments/Day3/tail_recursion.scala:6:1: stale bloop error: immutableVariable is already defined as value immutableVariable in /Users/racit/Documents/Assignments/Day1/arrays.scala
+val immutableVariable: Int = 10
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.11.08 23:48:36 INFO  file:///Users/racit/Documents/Assignments/Day3/tail_recursion.scala:10:1: stale bloop error: mutableVariable is already defined as variable mutableVariable in /Users/racit/Documents/Assignments/Day1/arrays.scala
+var mutableVariable: String = "Hello"
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2025.11.08 23:48:36 INFO  file:///Users/racit/Documents/Assignments/Day3/tail_recursion.scala:16:1: stale bloop error: lazyVariable is already defined as lazy value lazyVariable in /Users/racit/Documents/Assignments/Day1/arrays.scala
+> lazy val lazyVariable: Double = {
+>   println("Lazy variable initialized")
+>   3.14
+> }
+2025.11.08 23:48:36 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day3/tail_recursion.scala
+2025.11.08 23:49:28 INFO  compiling assignments_d5c0a6989e (20 scala sources)
+2025.11.08 23:49:28 INFO  time: compiled Assignments_d5c0a6989e in 0.23s
+2025.11.08 23:52:11 INFO  compiling assignments_d5c0a6989e (20 scala sources)
+2025.11.08 23:52:11 INFO  time: compiled Assignments_d5c0a6989e in 0.18s
+2025.11.08 23:53:19 INFO  compiling assignments_d5c0a6989e (20 scala sources)
+2025.11.08 23:53:19 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.08 23:53:27 INFO  compiling assignments_d5c0a6989e (20 scala sources)
+2025.11.08 23:53:27 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.08 23:54:00 INFO  compiling assignments_d5c0a6989e (20 scala sources)
+2025.11.08 23:54:00 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+Nov 08, 2025 11:54:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 530
+2025.11.08 23:54:45 INFO  compiling assignments_d5c0a6989e (20 scala sources)
+2025.11.08 23:54:45 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.08 23:56:42 INFO  no build target found for /Users/racit/Documents/Assignments/Day1/abc.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.08 23:56:42 WARN  no build target for: /Users/racit/Documents/Assignments/Day1/abc.scala
+2025.11.08 23:56:42 INFO  no build target found for /Users/racit/Documents/Assignments/Day1/abc.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.08 23:56:42 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day1/abc.scala
+2025.11.08 23:56:42 INFO  no build target found for /Users/racit/Documents/Assignments/Day1/abc.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.08 23:56:42 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day1/abc.scala
+2025.11.08 23:56:51 INFO  no build target found for /Users/racit/Documents/Assignments/Day1/abc.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.08 23:56:51 INFO  no build target found for /Users/racit/Documents/Assignments/Day1/abc.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.08 23:56:51 INFO  no build target found for /Users/racit/Documents/Assignments/Day1/abc.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.08 23:56:51 INFO  no build target found for /Users/racit/Documents/Assignments/Day1/abc.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.08 23:56:52 WARN  no build target for: /Users/racit/Documents/Assignments/Day1/abc.scala
+2025.11.08 23:56:52 INFO  no build target found for /Users/racit/Documents/Assignments/Day1/abc.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.08 23:56:53 WARN  no build target for: /Users/racit/Documents/Assignments/Day1/abc.scala
+2025.11.08 23:56:53 INFO  no build target found for /Users/racit/Documents/Assignments/Day1/abc.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.08 23:56:53 WARN  no build target for: /Users/racit/Documents/Assignments/Day1/abc.scala
+2025.11.08 23:56:53 INFO  no build target found for /Users/racit/Documents/Assignments/Day1/abc.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.08 23:57:11 INFO  no build target found for /Users/racit/Documents/Assignments/Day1/abc.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.08 23:57:11 INFO  no build target found for /Users/racit/Documents/Assignments/Day1/decisionMaking.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.08 23:57:11 INFO  no build target found for /Users/racit/Documents/Assignments/Day1/decisionMaking.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.08 23:57:11 WARN  no build target for: /Users/racit/Documents/Assignments/Day1/decisionMaking.scala
+2025.11.08 23:57:11 INFO  no build target found for /Users/racit/Documents/Assignments/Day1/decisionMaking.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.08 23:57:11 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.08 23:57:11 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.08 23:57:11 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.08 23:57:11 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.08 23:57:12 INFO  time: indexed workspace in 0.93s
+2025.11.08 23:57:11 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.08 23:57:12 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.08 23:58:05 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.08 23:58:05 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.08 23:59:41 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.08 23:59:41 INFO  time: compiled Assignments_d5c0a6989e in 0.18s
+2025.11.08 23:59:59 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.08 23:59:59 INFO  time: compiled Assignments_d5c0a6989e in 0.23s
+Nov 09, 2025 12:00:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 986
+2025.11.09 00:00:17 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.09 00:00:17 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.09 00:01:20 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.09 00:01:20 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+Nov 09, 2025 12:01:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1182
+2025.11.09 00:01:43 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.09 00:01:43 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.09 00:02:03 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.09 00:02:03 INFO  time: compiled Assignments_d5c0a6989e in 0.18s
+2025.11.09 00:04:24 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.09 00:04:24 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.09 00:05:20 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.09 00:05:20 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.09 00:06:18 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.09 00:06:18 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.09 00:06:48 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.09 00:06:48 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.09 00:08:29 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.09 00:08:29 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.09 00:08:50 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.09 00:08:50 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.09 00:09:58 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.09 00:09:58 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.09 00:10:20 ERROR Could not infer method at TextDocumentPositionParams [
+  textDocument = TextDocumentIdentifier [
+    uri = "file:///Users/racit/Documents/Assignments/Day2/normal_vs_case_class.scala"
+  ]
+  position = Position [
+    line = 6
+    character = 9
+  ]
+]
+2025.11.09 00:10:28 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.09 00:10:28 INFO  time: compiled Assignments_d5c0a6989e in 0.13s
+2025.11.09 00:10:47 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.09 00:10:47 INFO  time: compiled Assignments_d5c0a6989e in 0.13s
+2025.11.09 00:12:26 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.09 00:12:26 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.09 00:14:22 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.09 00:14:22 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.09 00:14:34 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.09 00:14:34 INFO  time: compiled Assignments_d5c0a6989e in 0.13s
+2025.11.09 00:15:42 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.09 00:15:42 INFO  time: compiled Assignments_d5c0a6989e in 0.13s
+2025.11.09 00:17:16 INFO  compiling assignments_d5c0a6989e (21 scala sources)
+2025.11.09 00:17:16 INFO  time: compiled Assignments_d5c0a6989e in 0.71s
+2025.11.09 00:19:00 INFO  no build target found for /Users/racit/Documents/Assignments/Day2/day2_combined.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.09 00:19:00 WARN  no build target for: /Users/racit/Documents/Assignments/Day2/day2_combined.scala
+2025.11.09 00:19:00 INFO  no build target found for /Users/racit/Documents/Assignments/Day2/day2_combined.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.09 00:19:00 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day2/day2_combined.scala
+2025.11.09 00:19:00 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.09 00:19:00 INFO  time: compiled Assignments_d5c0a6989e in 0.12s
+2025.11.09 00:19:00 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day2/day2_combined.scala
+2025.11.09 00:19:01 INFO  time: indexed workspace in 0.93s
+2025.11.09 00:19:01 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day2/day2_combined.scala
+2025.11.09 00:19:19 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.09 00:19:19 INFO  time: compiled Assignments_d5c0a6989e in 0.38s
+2025.11.09 00:20:34 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.09 00:20:34 INFO  time: compiled Assignments_d5c0a6989e in 0.27s
