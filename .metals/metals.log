@@ -260,3 +260,1176 @@ WARNING: Unmatched cancel notification for request id 1182
 2025.11.09 00:19:19 INFO  time: compiled Assignments_d5c0a6989e in 0.38s
 2025.11.09 00:20:34 INFO  compiling assignments_d5c0a6989e (1 scala source)
 2025.11.09 00:20:34 INFO  time: compiled Assignments_d5c0a6989e in 0.27s
+2025.11.10 10:21:45 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/smartTempConv.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 10:21:45 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/smartTempConv.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 10:21:45 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/smartTempConv.scala
+2025.11.10 10:21:45 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartTempConv.scala
+2025.11.10 10:21:45 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 10:21:45 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartTempConv.scala
+2025.11.10 10:21:45 INFO  time: compiled Assignments_d5c0a6989e in 0.34s
+2025.11.10 10:21:46 INFO  time: indexed workspace in 1.08s
+2025.11.10 10:21:47 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartTempConv.scala
+2025.11.10 10:21:47 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartTempConv.scala
+2025.11.10 10:21:58 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartTempConv.scala
+2025.11.10 10:22:08 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartTempConv.scala
+2025.11.10 10:22:11 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartTempConv.scala
+2025.11.10 10:22:12 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartTempConv.scala
+2025.11.10 10:22:12 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartTempConv.scala
+2025.11.10 10:22:13 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartTempConv.scala
+2025.11.10 10:22:15 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartTempConv.scala
+2025.11.10 10:22:22 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartTempConv.scala
+Nov 10, 2025 10:29:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3414
+Nov 10, 2025 10:29:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3480
+Nov 10, 2025 10:30:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3752
+2025.11.10 10:38:50 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 10:38:50 INFO  time: compiled Assignments_d5c0a6989e in 0.79s
+Nov 10, 2025 10:40:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4840
+2025.11.10 10:40:20 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 10:40:20 INFO  time: compiled Assignments_d5c0a6989e in 0.39s
+2025.11.10 10:41:38 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 10:41:38 INFO  time: compiled Assignments_d5c0a6989e in 0.19s
+2025.11.10 10:42:21 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/arrayMirrorPuzzle.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 10:42:21 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/arrayMirrorPuzzle.scala
+2025.11.10 10:42:21 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/arrayMirrorPuzzle.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 10:42:21 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/arrayMirrorPuzzle.scala
+2025.11.10 10:42:21 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 10:42:21 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/arrayMirrorPuzzle.scala
+2025.11.10 10:42:22 INFO  time: indexed workspace in 0.9s
+2025.11.10 10:42:22 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/arrayMirrorPuzzle.scala
+2025.11.10 10:42:31 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/arrayMirrorPuzzle.scala
+2025.11.10 10:42:32 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/arrayMirrorPuzzle.scala
+2025.11.10 10:42:32 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/arrayMirrorPuzzle.scala
+2025.11.10 10:42:32 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/arrayMirrorPuzzle.scala
+2025.11.10 10:42:33 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/arrayMirrorPuzzle.scala
+2025.11.10 10:42:36 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/arrayMirrorPuzzle.scala
+Nov 10, 2025 10:44:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5333
+2025.11.10 10:48:53 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 10:48:53 INFO  time: compiled Assignments_d5c0a6989e in 0.92s
+2025.11.10 10:49:08 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 10:49:08 INFO  time: compiled Assignments_d5c0a6989e in 0.41s
+2025.11.10 10:59:16 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/digitSumUsingSimpRecursion.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 10:59:16 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/digitSumUsingSimpRecursion.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 10:59:16 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/digitSumUsingSimpRecursion.scala
+2025.11.10 10:59:16 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/digitSumUsingSimpRecursion.scala
+2025.11.10 10:59:17 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 10:59:16 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/digitSumUsingSimpRecursion.scala
+2025.11.10 10:59:17 INFO  time: compiled Assignments_d5c0a6989e in 0.42s
+2025.11.10 10:59:18 INFO  time: indexed workspace in 1s
+2025.11.10 10:59:18 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/digitSumUsingSimpRecursion.scala
+2025.11.10 10:59:21 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/digitSumUsingSimpRecursion.scala
+2025.11.10 10:59:22 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/digitSumUsingSimpRecursion.scala
+2025.11.10 10:59:21 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/digitSumUsingSimpRecursion.scala
+2025.11.10 10:59:22 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/digitSumUsingSimpRecursion.scala
+2025.11.10 10:59:23 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/digitSumUsingSimpRecursion.scala
+2025.11.10 10:59:24 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/digitSumUsingSimpRecursion.scala
+2025.11.10 10:59:27 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/digitSumUsingSimpRecursion.scala
+Nov 10, 2025 11:00:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7499
+Nov 10, 2025 11:00:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7569
+Nov 10, 2025 11:01:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7930
+Nov 10, 2025 11:01:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8161
+2025.11.10 11:02:36 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:02:36 INFO  time: compiled Assignments_d5c0a6989e in 0.45s
+2025.11.10 11:02:47 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:02:47 INFO  time: compiled Assignments_d5c0a6989e in 0.23s
+2025.11.10 11:04:34 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/tailRecursiveFactorial.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 11:04:34 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/tailRecursiveFactorial.scala
+2025.11.10 11:04:34 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/tailRecursiveFactorial.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 11:04:34 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveFactorial.scala
+2025.11.10 11:04:34 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:04:34 INFO  time: compiled Assignments_d5c0a6989e in 0.1s
+2025.11.10 11:04:34 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveFactorial.scala
+2025.11.10 11:04:35 INFO  time: indexed workspace in 0.92s
+2025.11.10 11:04:34 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveFactorial.scala
+2025.11.10 11:11:05 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveFactorial.scala
+2025.11.10 11:11:05 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveFactorial.scala
+2025.11.10 11:11:06 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveFactorial.scala
+2025.11.10 11:11:06 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveFactorial.scala
+2025.11.10 11:11:07 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveFactorial.scala
+2025.11.10 11:11:07 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveFactorial.scala
+2025.11.10 11:11:10 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveFactorial.scala
+2025.11.10 11:15:48 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:15:48 INFO  time: compiled Assignments_d5c0a6989e in 0.37s
+2025.11.10 11:16:10 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:16:10 INFO  time: compiled Assignments_d5c0a6989e in 99ms
+2025.11.10 11:16:14 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:16:14 INFO  time: compiled Assignments_d5c0a6989e in 87ms
+2025.11.10 11:16:16 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:16:16 INFO  time: compiled Assignments_d5c0a6989e in 72ms
+2025.11.10 11:16:28 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:16:28 INFO  time: compiled Assignments_d5c0a6989e in 0.12s
+2025.11.10 11:16:39 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:16:39 INFO  time: compiled Assignments_d5c0a6989e in 0.25s
+2025.11.10 11:20:31 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:20:31 INFO  time: compiled Assignments_d5c0a6989e in 0.42s
+2025.11.10 11:20:47 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:20:47 INFO  time: compiled Assignments_d5c0a6989e in 0.4s
+2025.11.10 11:24:09 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/tailRecursiveMaxElementArray.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 11:24:09 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/tailRecursiveMaxElementArray.scala
+2025.11.10 11:24:09 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/tailRecursiveMaxElementArray.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 11:24:09 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveMaxElementArray.scala
+2025.11.10 11:24:09 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:24:09 INFO  time: compiled Assignments_d5c0a6989e in 0.13s
+2025.11.10 11:24:10 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveMaxElementArray.scala
+2025.11.10 11:24:10 INFO  time: indexed workspace in 0.96s
+2025.11.10 11:24:10 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveMaxElementArray.scala
+2025.11.10 11:24:11 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveMaxElementArray.scala
+2025.11.10 11:24:24 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveMaxElementArray.scala
+2025.11.10 11:24:24 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveMaxElementArray.scala
+2025.11.10 11:24:24 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveMaxElementArray.scala
+2025.11.10 11:24:25 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveMaxElementArray.scala
+2025.11.10 11:24:25 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveMaxElementArray.scala
+2025.11.10 11:24:28 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/tailRecursiveMaxElementArray.scala
+Nov 10, 2025 11:27:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10527
+Nov 10, 2025 11:27:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10558
+2025.11.10 11:28:14 INFO  Created report: Optional[file:///Users/racit/Documents/Assignments/Day5/tailRecursiveMaxElementArray.scala]
+2025.11.10 11:28:14 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/racit/Documents/Assignments/.metals/.reports/metals-full/2025-11-10/r_empty-definition_(Assignments_5fd5c0a6989e)_11-28-14-378.md")
+2025.11.10 11:28:14 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:28:14 INFO  time: compiled Assignments_d5c0a6989e in 0.47s
+2025.11.10 11:28:33 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:28:33 INFO  time: compiled Assignments_d5c0a6989e in 0.22s
+2025.11.10 11:29:58 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:29:58 INFO  time: compiled Assignments_d5c0a6989e in 0.11s
+2025.11.10 11:30:04 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:30:04 INFO  time: compiled Assignments_d5c0a6989e in 0.23s
+2025.11.10 11:32:35 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:32:35 INFO  time: compiled Assignments_d5c0a6989e in 0.25s
+2025.11.10 11:33:02 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:33:02 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.10 11:34:18 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:34:18 INFO  time: compiled Assignments_d5c0a6989e in 0.18s
+2025.11.10 11:35:26 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/building2dMultiplicationTable.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 11:35:26 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/building2dMultiplicationTable.scala
+2025.11.10 11:35:26 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/building2dMultiplicationTable.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 11:35:26 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/building2dMultiplicationTable.scala
+2025.11.10 11:35:26 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:35:26 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/building2dMultiplicationTable.scala
+2025.11.10 11:35:26 INFO  time: compiled Assignments_d5c0a6989e in 0.12s
+2025.11.10 11:35:27 INFO  time: indexed workspace in 0.96s
+2025.11.10 11:35:27 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/building2dMultiplicationTable.scala
+2025.11.10 11:35:32 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/building2dMultiplicationTable.scala
+2025.11.10 11:35:39 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/building2dMultiplicationTable.scala
+2025.11.10 11:35:49 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/building2dMultiplicationTable.scala
+2025.11.10 11:37:09 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:37:09 INFO  time: compiled Assignments_d5c0a6989e in 0.13s
+2025.11.10 11:37:27 INFO  time: compiled Assignments_d5c0a6989e in 7ms
+2025.11.10 11:38:05 INFO  Created report: Optional[file:///Users/racit/Documents/Assignments/Day5/smartTempConv.scala]
+2025.11.10 11:38:05 INFO  empty definition using pc, found symbol in pc:  (full report at: "/Users/racit/Documents/Assignments/.metals/.reports/metals-full/2025-11-10/r_empty-definition_(Assignments_5fd5c0a6989e)_11-38-05-436.md")
+2025.11.10 11:38:05 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:38:05 INFO  time: compiled Assignments_d5c0a6989e in 0.24s
+2025.11.10 11:38:26 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:38:26 INFO  time: compiled Assignments_d5c0a6989e in 0.18s
+2025.11.10 11:38:34 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:38:34 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 11:38:44 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:38:44 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 11:38:48 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:38:48 INFO  time: compiled Assignments_d5c0a6989e in 0.2s
+2025.11.10 11:38:52 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:38:52 INFO  time: compiled Assignments_d5c0a6989e in 0.24s
+2025.11.10 11:39:18 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:39:18 INFO  time: compiled Assignments_d5c0a6989e in 0.24s
+2025.11.10 11:39:58 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:39:58 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 11:40:10 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:40:10 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.10 11:40:26 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 11:40:26 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.10 11:40:54 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/building2dMultiplicationTable.scala
+2025.11.10 11:41:56 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/building2dMultiplicationTable.scala
+2025.11.10 11:41:57 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/building2dMultiplicationTable.scala
+2025.11.10 11:41:57 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/building2dMultiplicationTable.scala
+2025.11.10 11:41:58 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/building2dMultiplicationTable.scala
+2025.11.10 11:41:58 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/building2dMultiplicationTable.scala
+2025.11.10 11:41:59 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/building2dMultiplicationTable.scala
+2025.11.10 11:42:05 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/building2dMultiplicationTable.scala
+Nov 10, 2025 12:10:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12619
+Nov 10, 2025 12:10:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12644
+2025.11.10 12:12:09 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 12:12:09 INFO  time: compiled Assignments_d5c0a6989e in 0.23s
+2025.11.10 12:16:05 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 12:16:05 INFO  time: compiled Assignments_d5c0a6989e in 0.21s
+2025.11.10 12:17:11 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 12:17:11 INFO  time: compiled Assignments_d5c0a6989e in 0.18s
+2025.11.10 12:17:29 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 12:17:29 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.10 12:23:10 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/combiningTwoListFunctionally.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 12:23:10 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/combiningTwoListFunctionally.scala
+2025.11.10 12:23:10 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/combiningTwoListFunctionally.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 12:23:10 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/combiningTwoListFunctionally.scala
+2025.11.10 12:23:10 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 12:23:10 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/combiningTwoListFunctionally.scala
+2025.11.10 12:23:10 INFO  time: compiled Assignments_d5c0a6989e in 0.33s
+2025.11.10 12:23:11 INFO  time: indexed workspace in 0.96s
+2025.11.10 12:23:12 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/combiningTwoListFunctionally.scala
+2025.11.10 12:23:19 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/combiningTwoListFunctionally.scala
+2025.11.10 12:23:19 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/combiningTwoListFunctionally.scala
+2025.11.10 12:23:19 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/combiningTwoListFunctionally.scala
+2025.11.10 12:23:20 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/combiningTwoListFunctionally.scala
+2025.11.10 12:23:23 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/combiningTwoListFunctionally.scala
+2025.11.10 12:29:49 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 12:29:49 INFO  time: compiled Assignments_d5c0a6989e in 0.54s
+2025.11.10 12:29:53 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 12:29:53 INFO  time: compiled Assignments_d5c0a6989e in 0.21s
+2025.11.10 12:29:57 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 12:29:57 INFO  time: compiled Assignments_d5c0a6989e in 0.18s
+2025.11.10 12:58:33 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 12:58:33 INFO  time: compiled Assignments_d5c0a6989e in 0.98s
+2025.11.10 12:58:39 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 12:58:39 INFO  time: compiled Assignments_d5c0a6989e in 0.27s
+2025.11.10 12:58:44 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 12:58:44 INFO  time: compiled Assignments_d5c0a6989e in 0.19s
+2025.11.10 12:58:49 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 12:58:49 INFO  time: compiled Assignments_d5c0a6989e in 0.22s
+2025.11.10 12:59:02 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 12:59:02 INFO  time: compiled Assignments_d5c0a6989e in 0.2s
+2025.11.10 12:59:10 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 12:59:10 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.10 12:59:20 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 12:59:20 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.10 13:04:35 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:04:35 INFO  time: compiled Assignments_d5c0a6989e in 0.19s
+2025.11.10 13:05:13 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:05:13 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 13:05:33 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:05:33 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.10 13:06:16 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:06:16 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.10 13:08:37 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:08:37 INFO  time: compiled Assignments_d5c0a6989e in 0.18s
+2025.11.10 13:10:01 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:10:01 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+Nov 10, 2025 1:10:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14501
+2025.11.10 13:14:56 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/extractingTransformingNestedData.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 13:14:56 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/extractingTransformingNestedData.scala
+2025.11.10 13:14:56 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/extractingTransformingNestedData.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 13:14:56 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/extractingTransformingNestedData.scala
+2025.11.10 13:14:56 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:14:56 INFO  time: compiled Assignments_d5c0a6989e in 98ms
+2025.11.10 13:14:56 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/extractingTransformingNestedData.scala
+2025.11.10 13:14:57 INFO  time: indexed workspace in 0.93s
+2025.11.10 13:14:57 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/extractingTransformingNestedData.scala
+2025.11.10 13:15:04 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/extractingTransformingNestedData.scala
+2025.11.10 13:15:04 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/extractingTransformingNestedData.scala
+2025.11.10 13:15:05 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/extractingTransformingNestedData.scala
+2025.11.10 13:15:05 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/extractingTransformingNestedData.scala
+2025.11.10 13:15:07 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/extractingTransformingNestedData.scala
+Nov 10, 2025 1:15:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14758
+Nov 10, 2025 1:17:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15304
+2025.11.10 13:17:27 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:17:27 INFO  time: compiled Assignments_d5c0a6989e in 0.18s
+2025.11.10 13:18:50 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:18:50 INFO  time: compiled Assignments_d5c0a6989e in 78ms
+2025.11.10 13:19:38 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:19:38 INFO  time: compiled Assignments_d5c0a6989e in 78ms
+2025.11.10 13:20:03 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:20:03 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 13:20:17 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:20:17 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.10 13:25:29 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/functionalFilteringTransformation.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 13:25:29 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/functionalFilteringTransformation.scala
+2025.11.10 13:25:29 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/functionalFilteringTransformation.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 13:25:29 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/functionalFilteringTransformation.scala
+2025.11.10 13:25:29 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/functionalFilteringTransformation.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 13:25:29 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:25:29 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.10 13:25:29 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/functionalFilteringTransformation.scala
+2025.11.10 13:25:30 INFO  time: indexed workspace in 0.95s
+2025.11.10 13:25:30 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/functionalFilteringTransformation.scala
+2025.11.10 13:25:43 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/functionalFilteringTransformation.scala
+2025.11.10 13:25:43 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/functionalFilteringTransformation.scala
+2025.11.10 13:25:44 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/functionalFilteringTransformation.scala
+2025.11.10 13:25:44 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/functionalFilteringTransformation.scala
+2025.11.10 13:25:45 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/functionalFilteringTransformation.scala
+2025.11.10 13:25:45 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/functionalFilteringTransformation.scala
+2025.11.10 13:25:46 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/functionalFilteringTransformation.scala
+2025.11.10 13:25:46 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/functionalFilteringTransformation.scala
+2025.11.10 13:25:47 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/functionalFilteringTransformation.scala
+2025.11.10 13:28:06 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:28:06 INFO  time: compiled Assignments_d5c0a6989e in 0.13s
+Nov 10, 2025 1:28:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16778
+2025.11.10 13:28:51 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:28:51 INFO  time: compiled Assignments_d5c0a6989e in 0.11s
+2025.11.10 13:29:34 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:29:34 INFO  time: compiled Assignments_d5c0a6989e in 0.12s
+2025.11.10 13:29:54 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/functionalFilteringTransformation.scala
+2025.11.10 13:29:59 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:29:59 INFO  time: compiled Assignments_d5c0a6989e in 0.18s
+2025.11.10 13:30:36 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:30:36 INFO  time: compiled Assignments_d5c0a6989e in 0.19s
+2025.11.10 13:30:41 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:30:41 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+Nov 10, 2025 1:48:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17029
+2025.11.10 13:48:19 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:48:19 INFO  time: compiled Assignments_d5c0a6989e in 0.21s
+2025.11.10 13:48:28 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:48:28 INFO  time: compiled Assignments_d5c0a6989e in 0.19s
+2025.11.10 13:48:32 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:48:32 INFO  time: compiled Assignments_d5c0a6989e in 0.2s
+2025.11.10 13:48:39 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:48:39 INFO  time: compiled Assignments_d5c0a6989e in 0.18s
+2025.11.10 13:48:46 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:48:46 INFO  time: compiled Assignments_d5c0a6989e in 0.18s
+2025.11.10 13:48:49 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:48:49 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.10 13:49:14 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:49:14 INFO  time: compiled Assignments_d5c0a6989e in 0.21s
+2025.11.10 13:49:18 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:49:18 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 13:50:06 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:50:06 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.10 13:50:52 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:50:52 INFO  time: compiled Assignments_d5c0a6989e in 0.1s
+Nov 10, 2025 1:50:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17449
+2025.11.10 13:51:02 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:51:02 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 13:55:34 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/wordFrequencyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 13:55:34 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/wordFrequencyCounter.scala
+2025.11.10 13:55:34 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/wordFrequencyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 13:55:34 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/wordFrequencyCounter.scala
+2025.11.10 13:55:34 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 13:55:34 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/wordFrequencyCounter.scala
+2025.11.10 13:55:34 INFO  time: compiled Assignments_d5c0a6989e in 0.4s
+2025.11.10 13:55:35 INFO  time: indexed workspace in 1.03s
+2025.11.10 13:55:35 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/wordFrequencyCounter.scala
+2025.11.10 13:55:36 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/wordFrequencyCounter.scala
+2025.11.10 13:55:36 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/wordFrequencyCounter.scala
+2025.11.10 13:55:37 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/wordFrequencyCounter.scala
+2025.11.10 13:55:39 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/wordFrequencyCounter.scala
+Nov 10, 2025 1:56:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17802
+Nov 10, 2025 1:56:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17986
+Nov 10, 2025 1:57:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18151
+2025.11.10 14:11:22 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 14:11:22 INFO  time: compiled Assignments_d5c0a6989e in 0.6s
+2025.11.10 14:11:24 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 14:11:24 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 14:11:37 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 14:11:37 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.11.10 14:11:37 INFO  time: compiled Assignments_d5c0a6989e in 0.35s
+Nov 10, 2025 2:11:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18788
+2025.11.10 14:12:09 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 14:12:09 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.11.10 14:12:09 INFO  time: compiled Assignments_d5c0a6989e in 0.23s
+2025.11.10 14:15:18 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 14:15:18 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.11.10 14:15:18 INFO  time: compiled Assignments_d5c0a6989e in 0.88s
+2025.11.10 14:15:48 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 14:15:48 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.11.10 14:15:48 INFO  time: compiled Assignments_d5c0a6989e in 0.26s
+2025.11.10 14:58:23 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 14:58:23 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.11.10 14:58:23 INFO  time: compiled Assignments_d5c0a6989e in 0.22s
+2025.11.10 15:05:52 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/mysteryOfOperators.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 15:05:52 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/mysteryOfOperators.scala
+2025.11.10 15:05:52 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/mysteryOfOperators.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 15:05:52 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/mysteryOfOperators.scala
+2025.11.10 15:05:52 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:05:52 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/mysteryOfOperators.scala
+2025.11.10 15:05:53 INFO  time: indexed workspace in 0.97s
+2025.11.10 15:05:53 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/mysteryOfOperators.scala
+2025.11.10 15:06:04 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/mysteryOfOperators.scala
+2025.11.10 15:06:08 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/mysteryOfOperators.scala
+2025.11.10 15:06:08 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/mysteryOfOperators.scala
+2025.11.10 15:06:08 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/mysteryOfOperators.scala
+2025.11.10 15:06:09 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/mysteryOfOperators.scala
+2025.11.10 15:06:12 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/mysteryOfOperators.scala
+2025.11.10 15:06:51 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:06:51 INFO  time: compiled Assignments_d5c0a6989e in 0.27s
+2025.11.10 15:14:56 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:14:56 INFO  time: compiled Assignments_d5c0a6989e in 0.27s
+2025.11.10 15:16:23 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/operatorOverloading.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 15:16:23 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/operatorOverloading.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 15:16:23 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/operatorOverloading.scala
+2025.11.10 15:16:23 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/operatorOverloading.scala
+2025.11.10 15:16:23 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:16:23 INFO  time: compiled Assignments_d5c0a6989e in 0.1s
+2025.11.10 15:16:23 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/operatorOverloading.scala
+2025.11.10 15:16:24 INFO  time: indexed workspace in 0.92s
+2025.11.10 15:16:23 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/operatorOverloading.scala
+2025.11.10 15:16:26 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/operatorOverloading.scala
+2025.11.10 15:16:26 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/operatorOverloading.scala
+2025.11.10 15:16:26 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/operatorOverloading.scala
+2025.11.10 15:16:27 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/operatorOverloading.scala
+2025.11.10 15:16:28 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/operatorOverloading.scala
+2025.11.10 15:16:30 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/operatorOverloading.scala
+2025.11.10 15:17:49 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:17:49 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.10 15:17:58 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/operatorOverloading.scala
+2025.11.10 15:18:18 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:18:18 INFO  time: compiled Assignments_d5c0a6989e in 0.34s
+2025.11.10 15:18:47 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:18:47 INFO  time: compiled Assignments_d5c0a6989e in 0.26s
+2025.11.10 15:19:53 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:19:53 INFO  time: compiled Assignments_d5c0a6989e in 0.27s
+2025.11.10 15:20:41 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:20:41 INFO  time: compiled Assignments_d5c0a6989e in 0.22s
+2025.11.10 15:21:16 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:21:16 INFO  time: compiled Assignments_d5c0a6989e in 0.22s
+2025.11.10 15:22:18 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:22:18 INFO  time: compiled Assignments_d5c0a6989e in 0.18s
+2025.11.10 15:22:29 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:22:29 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 15:23:35 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/associativeExample.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 15:23:35 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/associativeExample.scala
+2025.11.10 15:23:35 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/associativeExample.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 15:23:35 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/associativeExample.scala
+2025.11.10 15:23:35 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:23:35 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.10 15:23:35 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/associativeExample.scala
+2025.11.10 15:23:36 INFO  time: indexed workspace in 0.94s
+2025.11.10 15:23:35 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/associativeExample.scala
+2025.11.10 15:23:39 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/associativeExample.scala
+2025.11.10 15:23:39 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/associativeExample.scala
+2025.11.10 15:23:39 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/associativeExample.scala
+2025.11.10 15:23:40 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/associativeExample.scala
+2025.11.10 15:23:42 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/associativeExample.scala
+2025.11.10 15:24:20 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:24:20 INFO  time: compiled Assignments_d5c0a6989e in 75ms
+2025.11.10 15:24:30 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:24:30 INFO  time: compiled Assignments_d5c0a6989e in 0.13s
+2025.11.10 15:27:07 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:27:07 INFO  time: compiled Assignments_d5c0a6989e in 0.2s
+2025.11.10 15:28:16 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:28:16 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.10 15:30:06 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/mergeGame.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 15:30:06 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/mergeGame.scala
+2025.11.10 15:30:06 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/mergeGame.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 15:30:06 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/mergeGame.scala
+2025.11.10 15:30:07 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:30:07 INFO  time: compiled Assignments_d5c0a6989e in 91ms
+2025.11.10 15:30:07 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/mergeGame.scala
+2025.11.10 15:30:07 INFO  time: indexed workspace in 0.91s
+2025.11.10 15:30:07 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/mergeGame.scala
+2025.11.10 15:30:08 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/mergeGame.scala
+2025.11.10 15:30:09 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/mergeGame.scala
+2025.11.10 15:30:09 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/mergeGame.scala
+2025.11.10 15:30:10 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/mergeGame.scala
+2025.11.10 15:30:11 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/mergeGame.scala
+2025.11.10 15:31:48 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:31:48 INFO  time: compiled Assignments_d5c0a6989e in 0.1s
+2025.11.10 15:31:57 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:31:57 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 15:32:12 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:32:12 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.10 15:33:33 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:33:33 INFO  time: compiled Assignments_d5c0a6989e in 81ms
+2025.11.10 15:33:53 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:33:53 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.10 15:34:20 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:34:20 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.10 15:36:32 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/arrowPuzzle.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 15:36:32 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/arrowPuzzle.scala
+2025.11.10 15:36:32 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/arrowPuzzle.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 15:36:32 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/arrowPuzzle.scala
+2025.11.10 15:36:32 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:36:32 INFO  time: compiled Assignments_d5c0a6989e in 96ms
+2025.11.10 15:36:32 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/arrowPuzzle.scala
+2025.11.10 15:36:33 INFO  time: indexed workspace in 0.97s
+2025.11.10 15:36:33 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/arrowPuzzle.scala
+2025.11.10 15:36:34 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/arrowPuzzle.scala
+2025.11.10 15:36:34 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/arrowPuzzle.scala
+2025.11.10 15:36:34 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/arrowPuzzle.scala
+2025.11.10 15:36:35 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/arrowPuzzle.scala
+2025.11.10 15:36:36 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/arrowPuzzle.scala
+2025.11.10 15:37:32 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:37:32 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+Nov 10, 2025 3:37:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23390
+2025.11.10 15:38:25 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:38:25 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 15:38:51 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:38:51 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+Nov 10, 2025 3:39:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23876
+2025.11.10 15:39:48 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:39:48 INFO  time: compiled Assignments_d5c0a6989e in 0.22s
+Nov 10, 2025 3:39:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23927
+2025.11.10 15:40:01 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:40:01 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 15:40:42 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:40:42 INFO  time: compiled Assignments_d5c0a6989e in 0.19s
+2025.11.10 15:40:52 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:40:52 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.10 15:42:00 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:42:00 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 15:45:01 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:45:01 INFO  time: compiled Assignments_d5c0a6989e in 0.13s
+2025.11.10 15:45:24 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:45:24 INFO  time: compiled Assignments_d5c0a6989e in 0.25s
+2025.11.10 15:47:05 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/moodTransformer.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 15:47:05 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/moodTransformer.scala
+2025.11.10 15:47:05 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/moodTransformer.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 15:47:05 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/moodTransformer.scala
+2025.11.10 15:47:06 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:47:06 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.10 15:47:06 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/moodTransformer.scala
+2025.11.10 15:47:06 INFO  time: indexed workspace in 0.97s
+2025.11.10 15:47:07 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/moodTransformer.scala
+2025.11.10 15:47:08 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/moodTransformer.scala
+2025.11.10 15:47:08 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/moodTransformer.scala
+2025.11.10 15:47:09 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/moodTransformer.scala
+2025.11.10 15:47:10 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/moodTransformer.scala
+2025.11.10 15:47:10 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/moodTransformer.scala
+2025.11.10 15:47:11 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/moodTransformer.scala
+2025.11.10 15:47:12 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/moodTransformer.scala
+2025.11.10 15:48:45 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:48:45 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.10 15:49:29 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:49:29 INFO  time: compiled Assignments_d5c0a6989e in 88ms
+2025.11.10 15:50:54 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:50:54 INFO  time: compiled Assignments_d5c0a6989e in 0.11s
+2025.11.10 15:51:09 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:51:09 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.10 15:51:51 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:51:51 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+Nov 10, 2025 3:54:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25581
+2025.11.10 15:54:25 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:54:25 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.10 15:54:59 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:54:59 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.10 15:55:26 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/sentencePipeline.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 15:55:26 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/sentencePipeline.scala
+2025.11.10 15:55:26 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/sentencePipeline.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 15:55:26 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/sentencePipeline.scala
+2025.11.10 15:55:26 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 15:55:26 INFO  time: compiled Assignments_d5c0a6989e in 74ms
+2025.11.10 15:55:26 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/sentencePipeline.scala
+2025.11.10 15:55:27 INFO  time: indexed workspace in 0.93s
+2025.11.10 15:55:27 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/sentencePipeline.scala
+2025.11.10 15:55:28 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/sentencePipeline.scala
+2025.11.10 15:55:28 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/sentencePipeline.scala
+2025.11.10 15:55:29 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/sentencePipeline.scala
+2025.11.10 15:55:30 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/sentencePipeline.scala
+2025.11.10 15:55:31 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/sentencePipeline.scala
+2025.11.10 16:01:41 INFO  Created report: Optional[file:///Users/racit/Documents/Assignments/Day5/sentencePipeline.scala]
+2025.11.10 16:01:41 INFO  java.lang.IllegalArgumentException: Comparison method violates its general contract! (full report at: "/Users/racit/Documents/Assignments/.metals/.reports/metals-full/2025-11-10/r_compiler-error_(Assignments_5fd5c0a6989e)_16-01-41-748.md")
+2025.11.10 16:01:43 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:01:43 INFO  time: compiled Assignments_d5c0a6989e in 0.12s
+2025.11.10 16:01:48 INFO  Created report: Optional[file:///Users/racit/Documents/Assignments/Day5/sentencePipeline.scala]
+2025.11.10 16:01:48 INFO  empty definition using pc, found symbol in pc: toUpper. (full report at: "/Users/racit/Documents/Assignments/.metals/.reports/metals-full/2025-11-10/r_empty-definition_(Assignments_5fd5c0a6989e)_16-01-48-385.md")
+2025.11.10 16:02:02 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:02:02 INFO  time: compiled Assignments_d5c0a6989e in 0.1s
+2025.11.10 16:02:13 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:02:13 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.11.10 16:02:13 INFO  time: compiled Assignments_d5c0a6989e in 0.26s
+2025.11.10 16:02:37 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:02:37 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.11.10 16:02:37 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 16:03:00 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:03:00 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.11.10 16:03:00 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.10 16:03:24 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:03:24 INFO  time: compiled Assignments_d5c0a6989e in 96ms
+Nov 10, 2025 4:04:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27720
+Nov 10, 2025 4:04:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27737
+2025.11.10 16:04:17 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:04:17 INFO  time: compiled Assignments_d5c0a6989e in 0.12s
+2025.11.10 16:04:47 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:04:47 INFO  time: compiled Assignments_d5c0a6989e in 0.1s
+Nov 10, 2025 4:04:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27915
+2025.11.10 16:04:59 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:04:59 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2025.11.10 16:04:59 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 16:06:08 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/delayedGreeter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 16:06:08 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/delayedGreeter.scala
+2025.11.10 16:06:08 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/delayedGreeter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 16:06:08 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/delayedGreeter.scala
+2025.11.10 16:06:08 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:06:08 INFO  time: compiled Assignments_d5c0a6989e in 0.11s
+2025.11.10 16:06:08 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/delayedGreeter.scala
+2025.11.10 16:06:09 INFO  time: indexed workspace in 0.91s
+2025.11.10 16:06:09 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/delayedGreeter.scala
+2025.11.10 16:06:10 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/delayedGreeter.scala
+2025.11.10 16:06:10 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/delayedGreeter.scala
+2025.11.10 16:06:11 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/delayedGreeter.scala
+2025.11.10 16:06:11 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/delayedGreeter.scala
+2025.11.10 16:06:12 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/delayedGreeter.scala
+2025.11.10 16:06:51 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:06:51 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+Nov 10, 2025 4:09:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28786
+Nov 10, 2025 4:10:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 28911
+2025.11.10 16:10:41 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:10:41 INFO  time: compiled Assignments_d5c0a6989e in 0.18s
+2025.11.10 16:11:47 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:11:47 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.10 16:14:46 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:14:46 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 16:14:49 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:14:49 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.10 16:17:00 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:17:00 INFO  time: compiled Assignments_d5c0a6989e in 0.18s
+2025.11.10 16:17:08 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:17:08 INFO  time: compiled Assignments_d5c0a6989e in 0.21s
+2025.11.10 16:20:55 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/intentionalCrasher.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 16:20:55 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/intentionalCrasher.scala
+2025.11.10 16:20:55 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/intentionalCrasher.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 16:20:55 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/intentionalCrasher.scala
+2025.11.10 16:20:55 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:20:55 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.10 16:20:56 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/intentionalCrasher.scala
+2025.11.10 16:20:56 INFO  time: indexed workspace in 0.97s
+2025.11.10 16:20:56 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/intentionalCrasher.scala
+2025.11.10 16:20:57 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/intentionalCrasher.scala
+2025.11.10 16:20:58 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/intentionalCrasher.scala
+Nov 10, 2025 4:20:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29489
+2025.11.10 16:20:58 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/intentionalCrasher.scala
+2025.11.10 16:21:00 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/intentionalCrasher.scala
+2025.11.10 16:21:29 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:21:29 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.10 16:52:13 INFO  Created report: Optional[file:///Users/racit/Documents/Assignments/Day5/intentionalCrasher.scala]
+2025.11.10 16:52:13 INFO  java.lang.IndexOutOfBoundsException: -1 (full report at: "/Users/racit/Documents/Assignments/.metals/.reports/metals-full/2025-11-10/r_compiler-error_(Assignments_5fd5c0a6989e)_16-52-13-806.md")
+2025.11.10 16:52:27 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:52:27 INFO  time: compiled Assignments_d5c0a6989e in 87ms
+2025.11.10 16:52:39 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:52:39 INFO  time: compiled Assignments_d5c0a6989e in 0.19s
+Nov 10, 2025 4:53:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30298
+Nov 10, 2025 4:55:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 30857
+2025.11.10 16:56:27 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:56:27 INFO  time: compiled Assignments_d5c0a6989e in 0.11s
+2025.11.10 16:56:37 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:56:37 INFO  time: compiled Assignments_d5c0a6989e in 88ms
+2025.11.10 16:56:42 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:56:42 INFO  time: compiled Assignments_d5c0a6989e in 92ms
+2025.11.10 16:56:59 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:56:59 INFO  time: compiled Assignments_d5c0a6989e in 0.18s
+2025.11.10 16:59:04 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:59:04 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.10 16:59:45 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/adaptiveDiscount.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 16:59:45 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/adaptiveDiscount.scala
+2025.11.10 16:59:45 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/adaptiveDiscount.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 16:59:45 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/adaptiveDiscount.scala
+2025.11.10 16:59:45 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 16:59:45 INFO  time: compiled Assignments_d5c0a6989e in 0.12s
+2025.11.10 16:59:46 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/adaptiveDiscount.scala
+2025.11.10 16:59:46 INFO  time: indexed workspace in 0.91s
+2025.11.10 16:59:46 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/adaptiveDiscount.scala
+Nov 10, 2025 4:59:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31168
+2025.11.10 16:59:47 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/adaptiveDiscount.scala
+2025.11.10 16:59:48 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/adaptiveDiscount.scala
+2025.11.10 16:59:48 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/adaptiveDiscount.scala
+2025.11.10 16:59:48 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/adaptiveDiscount.scala
+2025.11.10 17:01:27 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:01:27 INFO  time: compiled Assignments_d5c0a6989e in 0.11s
+Nov 10, 2025 5:02:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32055
+Nov 10, 2025 5:02:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 32079
+2025.11.10 17:03:56 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:03:56 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.10 17:04:18 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:04:18 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.10 17:04:48 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:04:48 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.10 17:06:31 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:06:31 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.10 17:07:51 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:07:51 INFO  time: compiled Assignments_d5c0a6989e in 0.19s
+2025.11.10 17:08:27 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:08:27 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 17:10:19 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:10:19 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.10 17:12:00 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/personalizedCalculator.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 17:12:00 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/personalizedCalculator.scala
+2025.11.10 17:12:00 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/personalizedCalculator.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 17:12:00 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/personalizedCalculator.scala
+2025.11.10 17:12:00 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:12:00 INFO  time: compiled Assignments_d5c0a6989e in 0.11s
+2025.11.10 17:12:00 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/personalizedCalculator.scala
+2025.11.10 17:12:01 INFO  time: indexed workspace in 0.95s
+2025.11.10 17:12:01 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/personalizedCalculator.scala
+2025.11.10 17:12:01 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/personalizedCalculator.scala
+2025.11.10 17:12:01 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/personalizedCalculator.scala
+2025.11.10 17:12:02 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/personalizedCalculator.scala
+2025.11.10 17:12:03 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/personalizedCalculator.scala
+2025.11.10 17:12:03 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/personalizedCalculator.scala
+2025.11.10 17:12:03 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/personalizedCalculator.scala
+2025.11.10 17:12:04 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/personalizedCalculator.scala
+2025.11.10 17:12:05 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/personalizedCalculator.scala
+Nov 10, 2025 5:13:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 33932
+2025.11.10 17:13:45 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:13:45 INFO  time: compiled Assignments_d5c0a6989e in 0.12s
+2025.11.10 17:15:28 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:15:28 INFO  time: compiled Assignments_d5c0a6989e in 0.1s
+2025.11.10 17:15:46 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:15:46 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 17:16:57 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:16:57 INFO  time: compiled Assignments_d5c0a6989e in 98ms
+2025.11.10 17:17:13 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:17:13 INFO  time: compiled Assignments_d5c0a6989e in 92ms
+2025.11.10 17:17:30 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:17:30 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+Nov 10, 2025 5:17:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34567
+2025.11.10 17:17:42 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:17:42 INFO  time: compiled Assignments_d5c0a6989e in 0.2s
+2025.11.10 17:18:44 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/shapeAnalyzer.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 17:18:44 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/shapeAnalyzer.scala
+2025.11.10 17:18:44 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/shapeAnalyzer.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 17:18:44 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/shapeAnalyzer.scala
+2025.11.10 17:18:44 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:18:44 INFO  time: compiled Assignments_d5c0a6989e in 92ms
+2025.11.10 17:18:44 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/shapeAnalyzer.scala
+2025.11.10 17:18:45 INFO  time: indexed workspace in 0.91s
+2025.11.10 17:18:45 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/shapeAnalyzer.scala
+2025.11.10 17:18:45 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/shapeAnalyzer.scala
+2025.11.10 17:18:45 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/shapeAnalyzer.scala
+2025.11.10 17:18:50 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/shapeAnalyzer.scala
+2025.11.10 17:19:18 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:19:18 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.10 17:19:32 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/shapeAnalyzer.scala
+2025.11.10 17:19:33 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/shapeAnalyzer.scala
+2025.11.10 17:19:34 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:19:34 INFO  time: compiled Assignments_d5c0a6989e in 0.13s
+2025.11.10 17:19:36 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/shapeAnalyzer.scala
+2025.11.10 17:19:49 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/shapeAnalyzer.scala
+Nov 10, 2025 5:20:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35262
+2025.11.10 17:20:32 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:20:32 INFO  time: compiled Assignments_d5c0a6989e in 80ms
+2025.11.10 17:20:32 WARN  Could not load snapshot text for /Users/racit/Documents/Assignments/Day5/shapeAnalyzer.scala
+2025.11.10 17:20:37 WARN  Could not load snapshot text for /Users/racit/Documents/Assignments/Day5/shapeAnalyzer.scala
+2025.11.10 17:20:38 WARN  Could not load snapshot text for /Users/racit/Documents/Assignments/Day5/shapeAnalyzer.scala
+2025.11.10 17:20:38 WARN  Could not load snapshot text for /Users/racit/Documents/Assignments/Day5/shapeAnalyzer.scala
+2025.11.10 17:20:39 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:20:39 INFO  time: compiled Assignments_d5c0a6989e in 0.2s
+2025.11.10 17:21:31 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:21:31 INFO  time: compiled Assignments_d5c0a6989e in 83ms
+2025.11.10 17:23:13 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:23:13 INFO  time: compiled Assignments_d5c0a6989e in 0.19s
+2025.11.10 17:23:59 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:23:59 INFO  time: compiled Assignments_d5c0a6989e in 0.18s
+2025.11.10 17:25:32 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:25:32 INFO  time: compiled Assignments_d5c0a6989e in 0.21s
+2025.11.10 17:26:19 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:26:19 INFO  time: compiled Assignments_d5c0a6989e in 0.19s
+2025.11.10 17:27:06 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/safeDivider.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 17:27:06 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/safeDivider.scala
+2025.11.10 17:27:06 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/safeDivider.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 17:27:06 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/safeDivider.scala
+2025.11.10 17:27:07 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:27:07 INFO  time: compiled Assignments_d5c0a6989e in 0.12s
+2025.11.10 17:27:07 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/safeDivider.scala
+2025.11.10 17:27:07 INFO  time: indexed workspace in 0.91s
+2025.11.10 17:27:07 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/safeDivider.scala
+2025.11.10 17:27:08 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/safeDivider.scala
+2025.11.10 17:27:09 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/safeDivider.scala
+2025.11.10 17:27:09 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/safeDivider.scala
+2025.11.10 17:27:09 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/safeDivider.scala
+2025.11.10 17:27:10 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/safeDivider.scala
+Nov 10, 2025 5:27:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36572
+2025.11.10 17:28:42 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:28:42 INFO  time: compiled Assignments_d5c0a6989e in 94ms
+Nov 10, 2025 5:28:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36907
+Nov 10, 2025 5:29:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36996
+2025.11.10 17:30:22 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:30:22 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.10 17:31:25 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:31:25 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.10 17:32:15 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/loginValidator.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 17:32:15 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/loginValidator.scala
+2025.11.10 17:32:15 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/loginValidator.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 17:32:15 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/loginValidator.scala
+2025.11.10 17:32:15 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:32:15 INFO  time: compiled Assignments_d5c0a6989e in 0.11s
+2025.11.10 17:32:16 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/loginValidator.scala
+2025.11.10 17:32:16 INFO  time: indexed workspace in 0.97s
+2025.11.10 17:32:16 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/loginValidator.scala
+2025.11.10 17:32:17 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/loginValidator.scala
+2025.11.10 17:32:18 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/loginValidator.scala
+2025.11.10 17:32:18 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/loginValidator.scala
+2025.11.10 17:32:18 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/loginValidator.scala
+2025.11.10 17:32:19 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/loginValidator.scala
+2025.11.10 17:33:38 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:33:38 INFO  time: compiled Assignments_d5c0a6989e in 0.1s
+Nov 10, 2025 5:33:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38329
+Nov 10, 2025 5:34:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38634
+Nov 10, 2025 5:34:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38685
+Nov 10, 2025 5:35:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38813
+2025.11.10 17:35:49 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:35:49 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.10 17:36:23 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:36:23 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.10 17:37:54 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/smartParser.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 17:37:54 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/smartParser.scala
+2025.11.10 17:37:54 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/smartParser.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 17:37:54 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartParser.scala
+2025.11.10 17:37:54 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/smartParser.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 17:37:54 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:37:54 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartParser.scala
+2025.11.10 17:37:55 INFO  time: indexed workspace in 0.97s
+2025.11.10 17:37:55 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartParser.scala
+2025.11.10 17:37:56 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartParser.scala
+2025.11.10 17:37:56 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartParser.scala
+2025.11.10 17:37:56 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartParser.scala
+2025.11.10 17:37:57 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/smartParser.scala
+2025.11.10 17:40:09 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:40:09 INFO  time: compiled Assignments_d5c0a6989e in 0.1s
+Nov 10, 2025 5:40:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40081
+2025.11.10 17:41:58 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:41:58 INFO  time: compiled Assignments_d5c0a6989e in 0.22s
+2025.11.10 17:47:46 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:47:46 INFO  time: compiled Assignments_d5c0a6989e in 0.21s
+2025.11.10 17:48:12 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:48:12 INFO  time: compiled Assignments_d5c0a6989e in 0.19s
+2025.11.10 17:49:30 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:49:30 INFO  time: compiled Assignments_d5c0a6989e in 0.22s
+2025.11.10 17:50:13 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:50:13 INFO  time: compiled Assignments_d5c0a6989e in 0.19s
+2025.11.10 17:52:33 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/applyEvaluator.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 17:52:33 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/applyEvaluator.scala
+2025.11.10 17:52:33 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/applyEvaluator.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 17:52:33 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/applyEvaluator.scala
+2025.11.10 17:52:33 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:52:33 INFO  time: compiled Assignments_d5c0a6989e in 0.13s
+2025.11.10 17:52:34 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/applyEvaluator.scala
+2025.11.10 17:52:34 INFO  time: indexed workspace in 1s
+2025.11.10 17:52:34 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/applyEvaluator.scala
+2025.11.10 17:52:35 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/applyEvaluator.scala
+2025.11.10 17:52:35 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/applyEvaluator.scala
+2025.11.10 17:52:36 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/applyEvaluator.scala
+2025.11.10 17:52:36 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/applyEvaluator.scala
+2025.11.10 17:52:37 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/applyEvaluator.scala
+2025.11.10 17:52:40 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/applyEvaluator.scala
+2025.11.10 17:53:18 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 17:53:18 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+Nov 10, 2025 5:59:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41274
+Nov 10, 2025 5:59:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41454
+Nov 10, 2025 6:00:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41536
+2025.11.10 18:00:14 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 18:00:14 INFO  time: compiled Assignments_d5c0a6989e in 0.17s
+2025.11.10 18:00:23 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 18:00:23 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.10 18:01:53 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/dualNatureObject.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:01:53 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/dualNatureObject.scala
+2025.11.10 18:01:53 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/dualNatureObject.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:01:53 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/dualNatureObject.scala
+2025.11.10 18:01:53 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/dualNatureObject.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:01:53 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 18:01:53 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/dualNatureObject.scala
+2025.11.10 18:01:53 INFO  time: compiled Assignments_d5c0a6989e in 0.11s
+2025.11.10 18:01:54 INFO  time: indexed workspace in 0.95s
+2025.11.10 18:01:54 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/dualNatureObject.scala
+2025.11.10 18:02:01 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/dualNatureObject.scala
+2025.11.10 18:02:01 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/dualNatureObject.scala
+2025.11.10 18:02:02 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/dualNatureObject.scala
+2025.11.10 18:02:02 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/dualNatureObject.scala
+2025.11.10 18:02:03 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/dualNatureObject.scala
+Nov 10, 2025 6:04:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42421
+2025.11.10 18:05:05 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 18:05:05 INFO  time: compiled Assignments_d5c0a6989e in 0.12s
+2025.11.10 18:05:22 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 18:05:22 INFO  time: compiled Assignments_d5c0a6989e in 0.11s
+Nov 10, 2025 6:05:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42629
+Nov 10, 2025 6:05:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 42630
+2025.11.10 18:05:40 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 18:05:40 INFO  time: compiled Assignments_d5c0a6989e in 0.27s
+2025.11.10 18:20:12 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:12 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:20:12 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:12 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:20:12 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:12 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:20:18 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:20:18 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:18 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:20:20 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:20 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:20 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:20 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:20 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:20:20 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:20 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:22 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:22 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:22 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:22 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:22 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:22 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:20:22 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:22 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:23 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:23 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:23 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:23 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:24 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:24 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:24 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:20:24 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:24 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:25 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:25 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:20:25 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:27 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:27 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:27 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:27 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:20:27 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:27 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:27 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:27 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:27 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:20:27 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:27 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:28 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:28 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:28 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:28 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:20:28 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:28 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:29 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:28 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:29 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:29 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:20:28 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:29 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:29 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:29 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:20:29 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:29 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:29 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:29 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:20:29 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:30 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:29 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:30 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:30 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:20:30 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:31 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:31 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:31 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:20:32 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:32 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:32 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:32 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:32 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:32 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:32 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:32 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:33 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:33 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:33 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:33 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:33 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:34 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:34 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:34 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:34 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:35 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:34 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:34 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:35 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:34 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:34 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:34 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:35 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:35 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:34 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:35 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:35 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:35 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:35 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:35 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:35 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:35 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:35 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:35 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:35 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:36 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:37 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:37 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:40 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:40 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:40 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:41 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:41 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:42 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:42 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:43 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:42 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:43 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:42 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:43 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:42 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:43 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:44 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:44 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:44 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:44 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:44 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:44 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:44 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:44 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:45 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:45 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:45 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:51 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:51 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:51 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:51 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:51 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:51 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:52 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:52 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:52 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:52 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:52 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:52 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:52 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:52 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:52 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:52 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:52 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:53 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:53 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:20:53 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:35 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:36 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:36 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:38 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:38 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:38 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:39 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:38 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:39 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:39 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:40 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:40 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:39 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:40 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:44 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:44 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:44 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:45 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:21:45 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:48 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:48 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:48 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:21:48 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:22:18 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:22:18 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:22:18 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:22:18 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:22:18 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/lazyCounter.scala
+2025.11.10 18:22:19 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:24:27 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:24:28 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:24:28 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:24:28 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyCounter.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:25:55 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/unapplyChain.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:25:55 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/unapplyChain.scala
+2025.11.10 18:25:55 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/unapplyChain.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:25:55 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/unapplyChain.scala
+2025.11.10 18:25:56 INFO  compiling assignments_d5c0a6989e (2 scala sources)
+2025.11.10 18:25:55 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/unapplyChain.scala
+2025.11.10 18:25:57 INFO  time: indexed workspace in 1.07s
+2025.11.10 18:25:57 INFO  time: compiled Assignments_d5c0a6989e in 1.12s
+2025.11.10 18:25:57 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/unapplyChain.scala
+2025.11.10 18:25:57 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/unapplyChain.scala
+2025.11.10 18:25:58 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/unapplyChain.scala
+2025.11.10 18:25:57 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/unapplyChain.scala
+2025.11.10 18:25:58 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/unapplyChain.scala
+2025.11.10 18:25:58 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/unapplyChain.scala
+2025.11.10 18:26:12 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 18:26:12 INFO  time: compiled Assignments_d5c0a6989e in 0.23s
+2025.11.10 18:26:53 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 18:26:53 INFO  time: compiled Assignments_d5c0a6989e in 0.29s
+2025.11.10 18:28:34 INFO  compiling assignments_d5c0a6989e (2 scala sources)
+2025.11.10 18:28:34 INFO  time: compiled Assignments_d5c0a6989e in 0.43s
+2025.11.10 18:30:02 INFO  compiling assignments_d5c0a6989e (2 scala sources)
+2025.11.10 18:30:02 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.10 18:30:04 INFO  compiling assignments_d5c0a6989e (2 scala sources)
+2025.11.10 18:30:04 INFO  time: compiled Assignments_d5c0a6989e in 0.12s
+2025.11.10 18:30:18 INFO  compiling assignments_d5c0a6989e (2 scala sources)
+2025.11.10 18:30:18 INFO  time: compiled Assignments_d5c0a6989e in 0.19s
+2025.11.10 18:30:31 INFO  compiling assignments_d5c0a6989e (2 scala sources)
+2025.11.10 18:30:31 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.10 18:31:12 INFO  compiling assignments_d5c0a6989e (2 scala sources)
+2025.11.10 18:31:12 INFO  time: compiled Assignments_d5c0a6989e in 0.16s
+2025.11.10 18:32:48 INFO  compiling assignments_d5c0a6989e (2 scala sources)
+2025.11.10 18:32:48 INFO  time: compiled Assignments_d5c0a6989e in 0.15s
+2025.11.10 18:32:56 INFO  compiling assignments_d5c0a6989e (2 scala sources)
+2025.11.10 18:32:56 INFO  time: compiled Assignments_d5c0a6989e in 0.14s
+2025.11.10 18:32:59 INFO  compiling assignments_d5c0a6989e (2 scala sources)
+2025.11.10 18:32:59 INFO  time: compiled Assignments_d5c0a6989e in 0.29s
+2025.11.10 18:33:03 INFO  compiling assignments_d5c0a6989e (2 scala sources)
+2025.11.10 18:33:03 INFO  time: compiled Assignments_d5c0a6989e in 0.38s
+2025.11.10 18:33:50 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyPipelineBuilder.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:33:50 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/lazyPipelineBuilder.scala
+2025.11.10 18:33:50 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/lazyPipelineBuilder.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:33:50 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyPipelineBuilder.scala
+2025.11.10 18:33:50 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 18:33:50 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyPipelineBuilder.scala
+2025.11.10 18:33:50 INFO  time: compiled Assignments_d5c0a6989e in 0.12s
+2025.11.10 18:33:51 INFO  time: indexed workspace in 1s
+2025.11.10 18:33:51 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyPipelineBuilder.scala
+2025.11.10 18:33:51 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyPipelineBuilder.scala
+2025.11.10 18:33:52 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyPipelineBuilder.scala
+2025.11.10 18:33:52 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyPipelineBuilder.scala
+2025.11.10 18:33:53 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/lazyPipelineBuilder.scala
+2025.11.10 18:34:30 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 18:34:30 INFO  time: compiled Assignments_d5c0a6989e in 0.35s
+2025.11.10 18:39:04 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/vectorAlgebra.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:39:04 WARN  no build target for: /Users/racit/Documents/Assignments/Day5/vectorAlgebra.scala
+2025.11.10 18:39:04 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/vectorAlgebra.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:39:04 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/vectorAlgebra.scala
+2025.11.10 18:39:04 INFO  no build target found for /Users/racit/Documents/Assignments/Day5/vectorAlgebra.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2025.11.10 18:39:04 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 18:39:04 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/vectorAlgebra.scala
+2025.11.10 18:39:05 INFO  time: indexed workspace in 0.99s
+2025.11.10 18:39:05 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/vectorAlgebra.scala
+2025.11.10 18:39:05 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/vectorAlgebra.scala
+2025.11.10 18:39:05 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/vectorAlgebra.scala
+2025.11.10 18:39:06 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/vectorAlgebra.scala
+2025.11.10 18:39:06 WARN  Could not find semantic tokens for: file:///Users/racit/Documents/Assignments/Day5/vectorAlgebra.scala
+2025.11.10 18:39:23 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 18:39:23 INFO  time: compiled Assignments_d5c0a6989e in 0.53s
+2025.11.10 19:57:44 INFO  compiling assignments_d5c0a6989e (1 scala source)
+2025.11.10 19:57:45 INFO  time: compiled Assignments_d5c0a6989e in 1.36s
