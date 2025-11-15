@@ -4454,3 +4454,22 @@ WARNING: Unmatched cancel notification for request id 419
 2025.11.13 20:28:25 INFO  time: compiled Assignments_c304e17189 in 0.15s
 2025.11.13 20:28:36 INFO  compiling assignments_c304e17189 (1 scala source)
 2025.11.13 20:28:36 INFO  time: compiled Assignments_c304e17189 in 0.17s
+2025.11.15 11:32:06 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.pom
+2025.11.15 11:32:06 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.pom
+2025.11.15 11:32:06 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar
+2025.11.15 11:32:07 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar
+2025.11.15 11:32:07 INFO  compiling assignments_c304e17189 (3 scala sources)
+2025.11.15 11:32:07 INFO  time: compiled Assignments_c304e17189 in 0.34s
+2025.11.15 11:32:08 INFO  time: Imported build in 0.57s
+2025.11.15 11:32:07 INFO  compiling assignments_c304e17189 (3 scala sources)
+2025.11.15 11:32:07 INFO  time: compiled Assignments_c304e17189 in 0.18s
+2025.11.15 11:32:08 INFO  time: indexed workspace in 0.85s
+2025.11.15 11:32:09 INFO  compiling assignments_c304e17189 (3 scala sources)
+2025.11.15 11:32:09 INFO  time: compiled Assignments_c304e17189 in 0.15s
+2025.11.15 11:32:45 INFO  compiling assignments_c304e17189 (5 scala sources)
+2025.11.15 11:32:45 INFO  time: compiled Assignments_c304e17189 in 0.41s
+2025.11.15 11:32:45 INFO  time: Imported build in 0.68s
+2025.11.15 11:32:45 INFO  compiling assignments_c304e17189 (5 scala sources)
+2025.11.15 11:32:46 INFO  time: indexed workspace in 0.85s
+2025.11.15 11:32:47 INFO  compiling assignments_c304e17189 (5 scala sources)
+2025.11.15 11:32:47 INFO  time: compiled Assignments_c304e17189 in 0.26s
