@@ -1,3 +1,18 @@
+file://<WORKSPACE>/Week%203%20Projects/Corporate%20Equipment%20Allocation%20Project/equipment-allocation-play-service/app/security/JwtUtil.scala
+empty definition using pc, found symbol in pc: 
+semanticdb not found
+empty definition using fallback
+non-local guesses:
+	 -secretKey.
+	 -secretKey#
+	 -secretKey().
+	 -scala/Predef.secretKey.
+	 -scala/Predef.secretKey#
+	 -scala/Predef.secretKey().
+offset: 314
+uri: file://<WORKSPACE>/Week%203%20Projects/Corporate%20Equipment%20Allocation%20Project/equipment-allocation-play-service/app/security/JwtUtil.scala
+text:
+```scala
 package security
 
 import com.auth0.jwt.JWT
@@ -7,7 +22,7 @@ import java.util.Date
 
 object JwtUtil {
   private val secretKey = "abc-jwt-key" // Store securely in environment variables
-  private val algorithm = Algorithm.HMAC256(secretKey)
+  private val algorithm = Algorithm.HMAC256(secre@@tKey)
   private val issuer = "play-name"
 
   // Generate a JWT token
@@ -33,3 +48,10 @@ object JwtUtil {
     }
   }
 }
+
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: 

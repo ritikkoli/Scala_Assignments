@@ -6,7 +6,7 @@ import com.auth0.jwt.exceptions.JWTVerificationException
 import java.util.Date
 
 object JwtUtil {
-  private val secretKey = "vinodh-jwt-key" // Store securely in environment variables
+  private val secretKey = "abc-jwt-key" // Store securely in environment variables
   private val algorithm = Algorithm.HMAC256(secretKey)
   private val issuer = "play-name"
 
