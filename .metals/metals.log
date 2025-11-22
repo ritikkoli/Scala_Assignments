@@ -4473,3 +4473,77 @@ WARNING: Unmatched cancel notification for request id 419
 2025.11.15 11:32:46 INFO  time: indexed workspace in 0.85s
 2025.11.15 11:32:47 INFO  compiling assignments_c304e17189 (5 scala sources)
 2025.11.15 11:32:47 INFO  time: compiled Assignments_c304e17189 in 0.26s
+2025.11.17 22:08:40 INFO  Shutting down server
+2025.11.17 22:08:40 INFO  shutting down Metals
+2025.11.17 22:08:40 INFO  Shut down connection with build server.
+2025.11.17 22:08:40 INFO  Exiting server
+2025.11.22 16:10:30 INFO  Started: Metals version 1.6.3 in folders '/Users/racit/Documents/Assignments' for client Visual Studio Code 1.105.1.
+2025.11.22 16:10:30 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.22 16:10:31 INFO  Attempting to connect to the build server...
+2025.11.22 16:10:31 INFO  Running BSP server List(/Users/racit/Library/Application Support/Coursier/bin/.scala-cli.aux, bsp, --json-options, /Users/racit/Documents/Assignments/.scala-build/ide-options-v2.json, --json-launcher-options, /Users/racit/Documents/Assignments/.scala-build/ide-launcher-options.json, --envs-file, /Users/racit/Documents/Assignments/.scala-build/ide-envs.json, /Users/racit/Documents/Assignments)
+2025.11.22 16:10:31 INFO  no build target found for /Users/racit/Documents/Assignments/Day6_Assignments/IntergalacticTransportSystem.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.22 16:10:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/racit/Documents/Assignments/.metals/bsp.trace.json or /Users/racit/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.11.22 16:10:33 INFO  no build target found for /Users/racit/Documents/Assignments/Day6_Assignments/IntergalacticTransportSystem.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2025.11.22 16:10:33 INFO  time: Connected to build server in 2.72s
+2025.11.22 16:10:33 INFO  Connected to Build server: scala-cli v1.9.1
+2025.11.22 16:10:34 INFO  compiling assignments_c304e17189 (181 scala sources and 3 java sources)
+2025.11.22 16:10:40 INFO  exception occurred while checkingJava /Users/racit/Documents/Assignments/Week 3 Projects/Event Management Project/EventManagementSystemProject/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/Assignments/Week 3 Projects/Event Management Project/EventManagementSystemProject/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/Assignments/.scala-build/.bloop/Assignments_c304e17189/bloop-internal-classes/main-gfg3SDSBS2KT1ssXrOqcoQ==:/Users/racit/Documents/Assignments/.scala-build/.bloop/Assignments_c304e17189/bloop-internal-classes/main-uGFKYy6HTy2o1G5vvBqd2w==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/Assignments/.scala-build/.bloop/Assignments_c304e17189/bloop-internal-classes/main-gfg3SDSBS2KT1ssXrOqcoQ== -sourceroot /Users/racit/Documents/Assignments
+2025.11.22 16:10:40 INFO  Created report: Optional.empty
+2025.11.22 16:10:40 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/Assignments/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._16-10-40-763.md")
+2025.11.22 16:10:40 INFO  Created report: Optional.empty
+2025.11.22 16:10:40 INFO  Unexpected error when compiling Assignments_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExc... (full report at: "/Users/racit/Documents/Assignments/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._16-10-40-772.md")
+2025.11.22 16:10:40 INFO  compiling assignments_c304e17189 (181 scala sources and 3 java sources)
+Nov 22, 2025 4:10:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2025.11.22 16:10:44 INFO  exception occurred while checkingJava /Users/racit/Documents/Assignments/Week 3 Projects/Event Management Project/EventManagementSystemProject/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/Assignments/Week 3 Projects/Event Management Project/EventManagementSystemProject/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/Assignments/.scala-build/.bloop/Assignments_c304e17189/bloop-internal-classes/main-H2iDf9sdSHuEI-hCTGjO-w==:/Users/racit/Documents/Assignments/.scala-build/.bloop/Assignments_c304e17189/bloop-internal-classes/main-uGFKYy6HTy2o1G5vvBqd2w==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/Assignments/.scala-build/.bloop/Assignments_c304e17189/bloop-internal-classes/main-H2iDf9sdSHuEI-hCTGjO-w== -sourceroot /Users/racit/Documents/Assignments
+2025.11.22 16:10:44 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/Assignments/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._16-10-40-763.md")
+2025.11.22 16:10:44 INFO  Unexpected error when compiling Assignments_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExc... (full report at: "/Users/racit/Documents/Assignments/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._16-10-40-772.md")
+2025.11.22 16:10:51 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2025.11.22 16:10:51 INFO  time: indexed workspace in 8.51s
+2025.11.22 16:10:52 INFO  compiling assignments_c304e17189 (181 scala sources and 3 java sources)
+2025.11.22 16:10:55 INFO  exception occurred while checkingJava /Users/racit/Documents/Assignments/Week 3 Projects/Event Management Project/EventManagementSystemProject/target/scala-2.13/routes/main/controllers/routes.java
+
+  An unhandled exception was thrown in the compiler.
+  Please file a crash report here:
+  https://github.com/scala/scala3/issues/new/choose
+  For non-enriched exceptions, compile with -Xno-enrich-error-messages.
+
+
+     while compiling: /Users/racit/Documents/Assignments/Week 3 Projects/Event Management Project/EventManagementSystemProject/target/scala-2.13/routes/main/controllers/routes.java
+        during phase: typer
+                mode: Mode(ImplicitsEnabled,ReadPositions)
+     library version: version 2.13.16
+    compiler version: version 3.7.3
+            settings: -Xsemanticdb true -bootclasspath /opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala3-library_3/3.7.3/scala3-library_3-3.7.3.jar:/opt/homebrew/Cellar/scala/3.7.3/libexec/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar -classpath /Users/racit/Documents/Assignments/.scala-build/.bloop/Assignments_c304e17189/bloop-internal-classes/main-Q56h9ocmROuT9se3cY1kqQ==:/Users/racit/Documents/Assignments/.scala-build/.bloop/Assignments_c304e17189/bloop-internal-classes/main-uGFKYy6HTy2o1G5vvBqd2w==:/Users/racit/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.10.0/semanticdb-javac-0.10.0.jar -d /Users/racit/Documents/Assignments/.scala-build/.bloop/Assignments_c304e17189/bloop-internal-classes/main-Q56h9ocmROuT9se3cY1kqQ== -sourceroot /Users/racit/Documents/Assignments
+2025.11.22 16:10:55 INFO  time: compiled Assignments_c304e17189 in 3.25s
+2025.11.22 16:10:55 INFO  dotty.tools.dotc.ast.Trees$UnAssignedTypeException: type of TypeTree is not assigned
+	at dotty.tools... (full report at: "/Users/racit/Documents/Assignments/.metals/.reports/bloop/2025-11-22/r_dotty.tools.dotc.ast..._16-10-40-763.md")
+2025.11.22 16:10:55 INFO  Unexpected error when compiling Assignments_c304e17189: dotty.tools.dotc.ast.Trees$UnAssignedTypeExc... (full report at: "/Users/racit/Documents/Assignments/.metals/.reports/bloop/2025-11-22/r_Unexpected error whe..._16-10-40-772.md")

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="separateProdTestSources" value="true" />
+    <profile name="sbt 1" modules="kafka-consumer-equipment-allocation,kafka-consumer-equipment-allocation.main,kafka-consumer-equipment-allocation.test,kafka-consumer-equipment-management,kafka-consumer-equipment-management.main,kafka-consumer-equipment-management.test,kafka-consumer-person,kafka-consumer-person.main,kafka-consumer-person.test" />
+  </component>
+</project>
