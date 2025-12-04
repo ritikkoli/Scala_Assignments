@@ -1,0 +1,43 @@
+# =============================
+# Equipment Routes
+# =============================
+GET     /api/equipment                   controllers.EquipmentController.list
+POST    /api/equipment                   controllers.EquipmentController.create
+GET     /api/equipment/:id               controllers.EquipmentController.find(id: Long)
+
+# =============================
+# Employee Routes
+# =============================
+GET     /api/employee                    controllers.EmployeeController.list
+POST    /api/employee                    controllers.EmployeeController.create
+GET     /api/employee/:id                controllers.EmployeeController.find(id: Long)
+
+# =============================
+# Allocation Routes
+# =============================
+POST    /api/allocation                  controllers.AllocationController.allocate
+GET     /api/allocation/:id              controllers.AllocationController.find(id: Long)
+GET     /api/allocations/employee/:empId controllers.AllocationController.listByEmployee(empId: Long)
+POST    /api/allocation/return/:id       controllers.AllocationController.markReturned(id: Long)
+
+# =============================
+# Maintenance Routes
+# =============================
+GET     /api/maintenance                 controllers.MaintenanceController.list
+POST    /api/maintenance                 controllers.MaintenanceController.report
+GET     /api/maintenance/:id             controllers.MaintenanceController.find(id: Long)
+
+# =============================
+# Notification Routes
+# =============================
+GET     /api/notifications               controllers.NotificationController.list
+GET     /api/notifications/pending       controllers.NotificationController.pending
+POST    /api/notifications               controllers.NotificationController.create
+POST    /api/notifications/sent/:id      controllers.NotificationController.markSent(id: Long)
+POST    /api/notifications/failed/:id/    controllers.NotificationController.markFailed(id: Long)
+
+# =============================
+# Static Assets
+# =============================
+GET     /assets/*file                    controllers.Assets.versioned(path="/public", file)
+POST    /api/login                controllers.AuthController.login
