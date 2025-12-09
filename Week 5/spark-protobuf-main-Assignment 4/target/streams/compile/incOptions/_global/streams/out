@@ -1,0 +1,40 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/racit/Downloads/spark-protobuf-main/target/scala-2.12/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/racit/Downloads/spark-protobuf-main/target/scala-2.12/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EmployeeProto$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AccumulatorExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Employee.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaUserEventReader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaUserEventProducer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CachingExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaToJsonJob.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaUserEventReader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BroadcastExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LocalProtoBufConversionApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BroadcastExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	LocalProtoBufConversionApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserEvent$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Employee$EmployeeLens.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CachingExample$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaToJsonJob$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserEvent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CoalesceExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Employee$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AccumulatorExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EmployeeProto.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaUserEventProducer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CachingExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EmployeeData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserEventProto$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaProtobufReader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserEventProto.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaProtobufReader$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EmployeeData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	KafkaToJsonJob$$typecreator9$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UserEvent$UserEventLens.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CoalesceExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/racit/Downloads/spark-protobuf-main/target/scala-2.12/classes.bak[0m

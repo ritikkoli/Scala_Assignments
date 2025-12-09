@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-pb.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-pb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-protobuf-main/scala-pb.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-protobuf-main/scala-pb.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-pb.scala-pb-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-pb.scala-pb-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-protobuf-main/scala-pb.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-protobuf-main/scala-pb.test.iml" />
+    </modules>
+  </component>
+</project>
