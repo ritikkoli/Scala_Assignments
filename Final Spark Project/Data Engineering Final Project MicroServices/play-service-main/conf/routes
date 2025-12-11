@@ -1,0 +1,39 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# https://www.playframework.com/documentation/latest/ScalaRouting
+# ~~~~
+OPTIONS   /*path   controllers.Application.preflight(path: String)
+# An example controller showing a sample home page
+GET     /                           controllers.HomeController.index()
+GET     /employees                  controllers.EmployeeController.index()
+
+GET     /persons              controllers.PersonController.index
+POST    /persons              controllers.PersonController.addPerson
+
+# Routes for People
+GET     /people                controllers.PeopleController.getPeople
+GET     /people/:sno           controllers.PeopleController.getPerson(sno: Int)
+POST    /people                controllers.PeopleController.createPerson
+PUT     /people/:sno           controllers.PeopleController.updatePerson(sno: Int)
+DELETE  /people/:sno           controllers.PeopleController.deletePerson(sno: Int)
+
+
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
+POST    /api/login                controllers.AuthController.login
+
+GET   /customer/:id   controllers.CustomerController.getCustomer(id: Int)
+
+#GET   /customer/:id                    controllers.CustomerController.getCustomer(id: Int)
+#GET   /summary/:date/:customerId       controllers.SummaryController.getSummary(date: String, customerId: Int)
+#GET   /events/:customerId              controllers.EventController.getEvents(customerId: Int, limit: Int ?= 10)
+#GET   /summary/:date/:customer_id    controllers.TxnSummaryController.getSummary(date, customer_id)
+#GET   /summary/{date}/{customer_id}   controllers.TxnSummaryController.getSummary(date: String, customer_id: Int)
+
+
+GET   /summary/:date/:customer_id   controllers.TxnSummaryController.getSummary(date: String, customer_id: Int)
+
+GET   /events/:customerId    controllers.BehaviourEventsController.getEvents(customerId: Int, limit: Option[Int])
+
+#GET   /events/:customerId              controllers.BehaviourEventsController.getEvents(customerId:Int, limit: Int)

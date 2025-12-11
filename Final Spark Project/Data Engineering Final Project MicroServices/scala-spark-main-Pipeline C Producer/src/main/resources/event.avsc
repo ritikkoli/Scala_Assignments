@@ -1,0 +1,12 @@
+{
+  "type": "record",
+  "name": "Event",
+  "namespace": "com.pipeline",
+  "fields": [
+    {"name": "event_id", "type": "string"},
+    {"name": "customer_id", "type": "int"},
+    {"name": "event_type", "type": "string"},
+    {"name": "product_id", "type": ["null", "int"], "default": null},
+    {"name": "event_timestamp", "type": "string"}
+  ]
+}
